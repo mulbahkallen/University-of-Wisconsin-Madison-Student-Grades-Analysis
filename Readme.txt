@@ -1,7 +1,7 @@
-#Modules 3 Project
+# Modules 3 Project
+-- Project Status: [Completed]
 
-## Make sure that you download https://www.kaggle.com/Madgrades/uw-madison-courses data source, put it in this file and change the name to "input"
-The reason is this file is too large and we cannot push all of it to github
+## Make sure that you download the [data](https://www.kaggle.com/Madgrades/uw-madison-courses) and put it in a new folder named `input`
 
 ## Company Name EDU INC - Improving Education Through Analytics
 
