@@ -4,10 +4,10 @@
 ## Data Description
 The University of Wisconsin - Madison publishes reports for all courses (and sections of these courses), instructors, subjects, and grade reports for each section for every Fall and Spring semester since 2006.
 
-There are more than 9,000 courses in this dataset. There are nearly 200,000 course sections with grades, with 3 million grades reported in total. 18,000 instructors are included in the dataset, all of whom are associated with various sections that may or may not have grades reported for them.
+There are more than 9,000 courses in this dataset. There are nearly 200,000-course sections with grades, with 3 million grades reported in total. 18,000 instructors are included in the dataset, all of whom are associated with various sections that may or may not have grades reported for them.
 
 Download the data [here](https://www.kaggle.com/Madgrades/uw-madison-courses) and put it in a new folder named `input`
-The data is provided by EDU INC - Improving Education Through Analytics and University of Wisconsin, Madison.
+The data is provided by EDU INC - Improving Education Through Analytics and the University of Wisconsin, Madison.
 
 
 ## Partners
@@ -22,12 +22,14 @@ The data is provided by EDU INC - Improving Education Through Analytics and Univ
 * Presentation: Canva
 
 
-## Methodology & Basis for Project
-Questions to answer:
-1)Does your teacher have a statistically significant correlation with the number of As earned in a course?
-2)Does time of day have a statistically significant correlation with the number of As earned in a course?
-3)Do STEM fields have a statistically significantly difference in the number of As earned when compared to the humanities?
-4)Does longevity in teaching improve a professors average GPA     
+## Questions to answer:
+1) Does your teacher have a statistically significant correlation with the number of As earned in a course?
+
+2) Does time of day have a statistically significant correlation with the number of As earned in a course?
+
+3) Do STEM fields have a statistically significant difference in the number of As earned when compared to the humanities?
+
+4) Does longevity in teaching improve a professors average GPA?
 
 
 ### Presentation
