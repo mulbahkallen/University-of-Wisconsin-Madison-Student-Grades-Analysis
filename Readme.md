@@ -1,4 +1,4 @@
-# Modules 3 Project
+# University of Wisconsin, Madison Student Grades Analysis 
 -- Project Status: [Completed]
 
 ## Data Description
