@@ -1,4 +1,4 @@
-# Modules 3 Project
+#Modules 3 Project
 
 ## Make sure that you download https://www.kaggle.com/Madgrades/uw-madison-courses data source, put it in this file and change the name to "input"
 The reason is this file is too large and we cannot push all of it to github
